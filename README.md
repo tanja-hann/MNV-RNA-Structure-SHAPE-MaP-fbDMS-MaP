@@ -9,3 +9,4 @@ Data accompanying the RNA secondary structure determination of the murine norovi
 - MNV Secondary Structure
 - MNV Alignments
 - MNV Mutant Plasmid Sequences
+- MNV Translation Reporter Constructs
